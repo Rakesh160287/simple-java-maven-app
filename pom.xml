@@ -19,7 +19,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!-- SonarQube Configuration -->
     <sonar.projectKey>mycompany_my-app</sonar.projectKey>
-    <sonar.host.url>http://3.236.108.134:9000/projects/create</sonar.host.url>
+    <sonar.host.url>http://3.236.108.134:9000/</sonar.host.url>
     <sonar.login>squ_9d4a35fa9ee19e4d013e17cc83e1b8c4d6bcaa5f</sonar.login> <!-- Use environment variable for safety -->
   </properties>
   <build>
